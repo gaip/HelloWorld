@@ -1,2 +1,1 @@
 # HelloWorld
-## SCript application
